@@ -1,0 +1,41 @@
+{
+    "name": "Islam ja Tiede - Koraanin Tieteelliset Ihmeet",
+    "short_name": "Islam ja Tiede",
+    "description": "Tutustu Koraanin tieteellisiin ihmeisiin: sikiökehitys, geologia, kosmologia, neurotieteet, oceanografia ja meteorologia.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2c5530",
+    "orientation": "portrait-primary",
+    "lang": "fi",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["education", "reference", "books"],
+    "screenshots": [
+        {
+            "src": "screenshot-desktop.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "screenshot-mobile.png",
+            "sizes": "375x667",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ]
+}
